@@ -1,1 +1,1 @@
-# Schizophrenia_VoiceFeatures_CLS
+# Prediction of Schizophrenia Severity using Voice Features
