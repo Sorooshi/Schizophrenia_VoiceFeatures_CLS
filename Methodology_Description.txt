@@ -1,0 +1,47 @@
+# Algorithms to Implement:
+
+Please, use  Sklearn to implement, at least the 4 first below-mentioned algorithms in the form of a Python script.
+
+- Jupyter notebooks are NOT accepted as final implementations. 
+
+- If you are interested, you can consult my recent python package for detecting dyslexia (DD) to shape the structure of your project and create your test beds:
+
+DD repo: https://github.com/Sorooshi/DD
+
+
+
+Methods to implement:
+
+1) Logistic Regression 
+2) Support Vector Machine
+3) Random Forest 
+4) MLP
+5) you propose
+6) you propose
+
+
+
+
+- Tune the parameters using "Bayesian Search Optimization" in five fold-cross validation framework. 
+
+- Train and test using 10 fold-cross validation framework.
+
+
+Useful links:
+
+https://scikit-learn.org/stable/
+
+https://scikit-optimize.github.io/stable/
+
+https://online.stanford.edu/courses/sohs-ymusic0001-audio-signal-processing-music-applications
+
+https://www.it-jim.com/blog/audio-processing-basics-in-python/
+
+
+
+
+
+
+
+
+
