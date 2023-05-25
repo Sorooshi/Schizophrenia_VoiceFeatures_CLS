@@ -1,0 +1,11 @@
+During my work in the lab I:
+- loaded the features from the audio-files, using librosa
+- implemented several ML models and applied methods of upsampling and downsampling
+
+What I learned:
+- basically I had no ML-skills, so everything that I've done is a product of learning
+
+What could have been done better:
+- when I started to work on the project, I didn't know the basics of working with data for ML, so I spent a lot of time on 
+correcting very basic mistakes (like standartization, looking at accuracy, lack of val sample)
+- it would have been more effective to learn more about the specifics of data and the applications
